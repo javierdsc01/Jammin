@@ -16,8 +16,6 @@ The project involves a service consisting of devices installed in stores to prev
 
 The goal of this project is to learn how to manage a database (using `MariaSQL` here), `Arduino`, and `Java`.
 
----
-
 ## 日本語
 
 Jammin'は、コンピュータ工学の2年次の工学プロジェクト科目のために開発されたプロジェクトです。
